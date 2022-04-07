@@ -54,6 +54,9 @@
       <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer"> <img
       src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"
       alt="postman" width="40" height="40" /> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      alt="git" width="40" height="40" /> </a>
 <!--       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> -->
