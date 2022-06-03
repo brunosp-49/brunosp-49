@@ -29,6 +29,15 @@
 
 <br>
 
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://personal-web-site-chi.vercel.app/" target="blank"><img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+      alt="portfolio" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p 
      <a href="https://www.cprogramming.com/" target="_blank"
