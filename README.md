@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="brunosp-49" /></p>
 
 
-- 🌱 I’m currently working as Web Development and  styding at BYU - Idaho college.
+- 🌱 I’m currently working as Web Development and studying at BYU - Idaho college
 
 - 📫 How to reach me **brunospdev@gmail.com**
 
