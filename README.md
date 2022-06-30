@@ -89,7 +89,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosp49-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="brunosp-49" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosp-49-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="brunosp-49" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -97,5 +97,5 @@
       
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunosp49)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunosp-49)
 
