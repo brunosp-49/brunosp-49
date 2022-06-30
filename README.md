@@ -81,10 +81,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosp-49)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="brunosp-49" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
