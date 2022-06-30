@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">Front-End Developer🌟.</h3>
+<h3 align="center">Full-Stack Developer🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="brunosp-49" /></p>
 
 
-- 🌱 I’m currently learning Web Development at Labenu's bootcamp and BYU - Idaho college
+- 🌱 I’m currently working as Web Development and  styding at BYU - Idaho college.
 
 - 📫 How to reach me **brunospdev@gmail.com**
 
