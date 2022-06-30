@@ -84,8 +84,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="brunosp-49" /></p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunosp-49)
 
 <br>
 
@@ -97,5 +96,5 @@
       
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunosp-49)
+
 
